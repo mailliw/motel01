@@ -1,0 +1,13 @@
+platform :ios, "5.0"
+pod 'PPRevealSideViewController', '~> 1.0.1'
+pod 'FlurrySDK', '~> 4.1.0'
+pod 'TestFlightSDK', '~> 1.2.4.beta'
+pod 'NSLogger', '1.1'
+pod 'MBProgressHUD', '~> 0.5'
+pod 'JSONKit', '~> 1.5pre'
+pod 'RateStars', '~>0.0.1'
+pod 'SDWebImage', '~> 3.1'
+pod 'MKNetworkKit', '~> 0.87'
+pod 'SMPageControl', '~> 1.0'
+pod 'GoogleAnalytics-iOS-SDK', '~> 2.0beta4'
+pod 'iRate', '~> 1.7'

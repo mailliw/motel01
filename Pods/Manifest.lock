@@ -1,0 +1,48 @@
+PODS:
+  - FlurrySDK (4.1.0)
+  - GoogleAnalytics-iOS-SDK (2.0beta4)
+  - iRate (1.7.2)
+  - JSONKit (1.5pre)
+  - MBProgressHUD (0.5)
+  - MKNetworkKit (0.87):
+    - Reachability (~> 3.1.0)
+  - NSLogger (1.1.0)
+  - PPRevealSideViewController (1.0.1)
+  - RateStars (0.0.1)
+  - Reachability (3.1.0)
+  - SDWebImage (3.1):
+    - SDWebImage/Main (= 3.1)
+  - SDWebImage/Main (3.1)
+  - SMPageControl (1.0)
+  - TestFlightSDK (1.2.4.beta)
+
+DEPENDENCIES:
+  - FlurrySDK (~> 4.1.0)
+  - GoogleAnalytics-iOS-SDK (~> 2.0beta4)
+  - iRate (~> 1.7)
+  - JSONKit (~> 1.5pre)
+  - MBProgressHUD (~> 0.5)
+  - MKNetworkKit (~> 0.87)
+  - NSLogger (= 1.1)
+  - PPRevealSideViewController (~> 1.0.1)
+  - RateStars (~> 0.0.1)
+  - SDWebImage (~> 3.1)
+  - SMPageControl (~> 1.0)
+  - TestFlightSDK (~> 1.2.4.beta)
+
+SPEC CHECKSUMS:
+  FlurrySDK: 52245ae8c6fa31825dc74a6afb94b861da2435fa
+  GoogleAnalytics-iOS-SDK: 11332eedcffb0c88b2dd9bff0ac1444e3a85e890
+  iRate: eb1d02ff0a2bfee220f5fe028583b4ce5f3ef3bd
+  JSONKit: 3d4708953ea7ae399a49777372d8b060a43ddd27
+  MBProgressHUD: b23ee11c42253d6d804e8e0bfabdc334e8b2571f
+  MKNetworkKit: 3d581af82df1a59e38efef8afef08437cef0df69
+  NSLogger: d49a3b23dbf6e4a24abfd2e04e74c86485ad0138
+  PPRevealSideViewController: b687e80c29a301b8f5a5b573c022c7da0b6af11e
+  RateStars: fc58226db09f2a2118d52e049f4aa1b24dcfc056
+  Reachability: 1c8584c5f26fa776695efef95caaa50402c94cfb
+  SDWebImage: 9e70e5dd0c69d1a043180cd2c5e1d0cd1e4ebcd7
+  SMPageControl: 9d100f9aa8ca0cf10222666ff31d4d1cbfdac674
+  TestFlightSDK: aeec97fd81096753d53b942f030a443520a087f4
+
+COCOAPODS: 0.17.0.rc3

@@ -1,0 +1,1 @@
+../../RateStars/RateStars/AppDelegate.h
